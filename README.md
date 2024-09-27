@@ -1,2 +1,15 @@
 # Kishalan-Pather
-Chatapp I made while while learning about websockets and databases around June 2022
+
+👋 Hi I'm Kishalan and this is my github. 
+It includes assignments I've built during my time at UCT, small apps I have made while learning technologies and my own personal projects. 
+
+Technologies I am familiar with:
+- javascript
+- react.js
+- node.js
+- express.js
+- python
+- java
+- mongoDB
+- firebase
+  
